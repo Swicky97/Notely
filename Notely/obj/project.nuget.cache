@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RSCzMSd8wEfxZMVrPtNK/Y6kcI5RYWFsr+PG6g92cwmN68UFeZlzU74CyOs7YQlgEQkMiwHb93GToXq7Kn8IfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chase\\Desktop\\Projects\\Notely\\Notely\\Notely.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chase\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
