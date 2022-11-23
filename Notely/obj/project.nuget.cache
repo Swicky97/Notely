@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "yQHlJvf5XkJjgq1nsQHRUVUtEysil44vjZARNnCaMmo2LIUogSn9vkp/AVbUK02+bRO2aM8fTkDCsYJaYhSqzA==",
+  "dgSpecHash": "P/jRvLgfdZWf3S6lO1gVWQ6VHlOf41ayJgDeZ5+t3ujdrlSVP/hux4VvD4t7y4pMqFX/AqyvZqGwfFaTSV34NQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\chase\\Desktop\\Notely\\Notely\\Notely.csproj",
   "expectedPackageFiles": [
@@ -16,6 +16,7 @@
     "C:\\Users\\chase\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.0\\microsoft.entityframeworkcore.relational.3.1.0.nupkg.sha512",
     "C:\\Users\\chase\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\3.1.0\\microsoft.entityframeworkcore.sqlite.3.1.0.nupkg.sha512",
     "C:\\Users\\chase\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\3.1.0\\microsoft.entityframeworkcore.sqlite.core.3.1.0.nupkg.sha512",
+    "C:\\Users\\chase\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\chase\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.0\\microsoft.extensions.caching.abstractions.3.1.0.nupkg.sha512",
     "C:\\Users\\chase\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.0\\microsoft.extensions.caching.memory.3.1.0.nupkg.sha512",
     "C:\\Users\\chase\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.0\\microsoft.extensions.configuration.3.1.0.nupkg.sha512",
@@ -28,15 +29,21 @@
     "C:\\Users\\chase\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.0\\microsoft.extensions.logging.abstractions.3.1.0.nupkg.sha512",
     "C:\\Users\\chase\\.nuget\\packages\\microsoft.extensions.options\\3.1.0\\microsoft.extensions.options.3.1.0.nupkg.sha512",
     "C:\\Users\\chase\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.0\\microsoft.extensions.primitives.3.1.0.nupkg.sha512",
+    "C:\\Users\\chase\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\chase\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.2\\sqlitepclraw.bundle_e_sqlite3.2.0.2.nupkg.sha512",
     "C:\\Users\\chase\\.nuget\\packages\\sqlitepclraw.core\\2.0.2\\sqlitepclraw.core.2.0.2.nupkg.sha512",
     "C:\\Users\\chase\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.2\\sqlitepclraw.lib.e_sqlite3.2.0.2.nupkg.sha512",
     "C:\\Users\\chase\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.2\\sqlitepclraw.provider.dynamic_cdecl.2.0.2.nupkg.sha512",
+    "C:\\Users\\chase\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\chase\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\chase\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\chase\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
     "C:\\Users\\chase\\.nuget\\packages\\system.collections.immutable\\1.7.0\\system.collections.immutable.1.7.0.nupkg.sha512",
     "C:\\Users\\chase\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "C:\\Users\\chase\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.0\\system.diagnostics.diagnosticsource.4.7.0.nupkg.sha512",
     "C:\\Users\\chase\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
-    "C:\\Users\\chase\\.nuget\\packages\\system.text.json\\4.7.0\\system.text.json.4.7.0.nupkg.sha512"
+    "C:\\Users\\chase\\.nuget\\packages\\system.text.json\\4.7.0\\system.text.json.4.7.0.nupkg.sha512",
+    "C:\\Users\\chase\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
   ],
   "logs": []
 }

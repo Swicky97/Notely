@@ -101,8 +101,8 @@ C:\Users\chase\Desktop\Notely\Notely\obj\Debug\netcoreapp3.1\Notely.RazorTargetA
 C:\Users\chase\Desktop\Notely\Notely\obj\Debug\netcoreapp3.1\Notely.Views.pdb
 C:\Users\chase\Desktop\Notely\Notely\obj\Debug\netcoreapp3.1\Notely.csproj.CopyComplete
 C:\Users\chase\Desktop\Notely\Notely\obj\Debug\netcoreapp3.1\Notely.genruntimeconfig.cache
-C:\Users\chase\Desktop\Notely\Notely\obj\Debug\netcoreapp3.1\staticwebassets\Notely.StaticWebAssets.Pack.cache
-C:\Users\chase\Desktop\Notely\Notely\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Notely.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\chase\Desktop\Notely\Notely\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Notely.props
-C:\Users\chase\Desktop\Notely\Notely\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Notely.props
-C:\Users\chase\Desktop\Notely\Notely\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Notely.props
+C:\Users\chase\Desktop\Notely\Notely\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\chase\Desktop\Notely\Notely\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\chase\Desktop\Notely\Notely\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\chase\Desktop\Notely\Notely\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\chase\Desktop\Notely\Notely\obj\Debug\netcoreapp3.1\Notely.MvcApplicationPartsAssemblyInfo.cs

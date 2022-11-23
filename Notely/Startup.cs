@@ -27,6 +27,11 @@ namespace Notely
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
+            services.AddControllers();
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo { Title = "Notely Rest API", Version = "v1" });
+            });
             services.AddDbContext<NotelyDbContext>(options => options.UseSqlite(Configuration["Data:NotelyRestApi:ConnectionString"]));
             services.AddTransient<INoteRepository, NoteRepository>();
         }
@@ -42,6 +47,13 @@ namespace Notely
             {
                 app.UseExceptionHandler("/Error");
             }
+
+            app.UseSwagger();
+
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Notely Rest API");
+            });
 
             app.UseStaticFiles();
 

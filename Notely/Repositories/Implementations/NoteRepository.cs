@@ -24,7 +24,7 @@ namespace Notely.Repositories.Implementations
 
         public IEnumerable<Note> GetAllNotes()
         {
-            var notes = _context.Notes.ToList(); 
+            var notes = _context.Notes; 
             return notes;
         }
 
