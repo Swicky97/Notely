@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chase\\Desktop\\Projects\\Notely\\Notely\\Notely.csproj": {}
+    "C:\\Users\\chase\\Desktop\\Notely\\Notely\\Notely.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chase\\Desktop\\Projects\\Notely\\Notely\\Notely.csproj": {
+    "C:\\Users\\chase\\Desktop\\Notely\\Notely\\Notely.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chase\\Desktop\\Projects\\Notely\\Notely\\Notely.csproj",
+        "projectUniqueName": "C:\\Users\\chase\\Desktop\\Notely\\Notely\\Notely.csproj",
         "projectName": "Notely",
-        "projectPath": "C:\\Users\\chase\\Desktop\\Projects\\Notely\\Notely\\Notely.csproj",
+        "projectPath": "C:\\Users\\chase\\Desktop\\Notely\\Notely\\Notely.csproj",
         "packagesPath": "C:\\Users\\chase\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chase\\Desktop\\Projects\\Notely\\Notely\\obj\\",
+        "outputPath": "C:\\Users\\chase\\Desktop\\Notely\\Notely\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chase\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,22 +39,29 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.23, 3.1.23]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -63,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
