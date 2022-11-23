@@ -8,8 +8,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Notely.Database;
 using Microsoft.EntityFrameworkCore;
+using Notely.Repositories;
+using Notely.Repositories.Implementations;
 
 namespace Notely
 {
@@ -27,6 +28,7 @@ namespace Notely
         {
             services.AddRazorPages();
             services.AddDbContext<NotelyDbContext>(options => options.UseSqlite(Configuration["Data:NotelyRestApi:ConnectionString"]));
+            services.AddTransient<INoteRepository, NoteRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
